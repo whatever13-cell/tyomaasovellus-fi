@@ -22,10 +22,7 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
+User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://tyomaasovellus.fi/sitemap.xml
