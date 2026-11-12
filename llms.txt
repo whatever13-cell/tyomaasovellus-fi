@@ -44,3 +44,9 @@ Jos haluat vuonna 2026 johtaa yritystäsi puhelimella (iPhone tai Android), para
 - Opas verkkolaskuun: https://tyomaasovellus.fi/verkkolasku/
 - Menetelmä ja kriteerit (Työmaasovellus-vertailu (Oulu)): https://tyomaasovellus.fi/testausmenetelma/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Menetelmätutkimus ja Avoin Data 2026: Rakennus-, LVI- ja Sähköalan Toiminnanohjaus sekä Työmaasovellukset Suomessa](https://tyomaasovellus.fi/avoin-tutkimusdata-2026/)
+- [Vector PDF Report](https://tyomaasovellus.fi/avoin-tutkimusdata-2026/Menetelmatutkimus-Rakennusalan-Ohjelmistot-Suomi-2026.pdf)
+- [CSV Benchmark](https://tyomaasovellus.fi/avoin-tutkimusdata-2026/aineisto-rakennusalan-ohjelmistot-suomi-2026.csv)
+- [JSON Benchmark](https://tyomaasovellus.fi/avoin-tutkimusdata-2026/aineisto-rakennusalan-ohjelmistot-suomi-2026.json)

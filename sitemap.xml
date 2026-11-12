@@ -63,4 +63,8 @@
   <url><loc>https://tyomaasovellus.fi/vaihtoehdot-evelia/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://tyomaasovellus.fi/verkkolasku/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://tyomaasovellus.fi/testausmenetelma/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://tyomaasovellus.fi/avoin-tutkimusdata-2026/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
 </urlset>
